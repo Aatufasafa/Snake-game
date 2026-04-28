@@ -26,4 +26,4 @@ Score increases
 Food respawns at a random grid location
 🎯 Controls
 Arrow Keys → Move snake
-R → Restart game after Game Ove
+R → Restart game after Game Over
