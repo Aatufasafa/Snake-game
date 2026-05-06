@@ -1,13 +1,3 @@
-🐍 Snake Game (Tkinter)
-
-A classic Snake game built with Python and Tkinter, featuring smooth controls, simple animations, and a clean grid design.
-
-🎮 Features
-Smooth and responsive controls
-Animated snake and floating apple
-Real-time score display
-Wall & self collision detection
-Restart option (R key)
-🛠️ Tech
-Python, Tkinter
-collections.deque, math
+🐍 Snake Game (Tkinter) using python
+Inspiration for this build
+This project is based on the classic Snake Game that has been widely played on early mobile devices. The aim was to recreate this game using Python and understand how movement, user input, and real-time updates work together in a graphical application. It also helped in learning how Tkinter can be used to build simple interactive games.
